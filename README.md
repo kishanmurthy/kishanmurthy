@@ -10,7 +10,5 @@ BIO
 [![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanmurthy)](https://github.com/anuraghazra/github-readme-stats)
 
 --->
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Loves 🍕 
 
 
